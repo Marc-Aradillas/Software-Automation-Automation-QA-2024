@@ -1,6 +1,6 @@
-# Portfolio Submission - CS 320 Software test, Automation QA Course
+# Software test, Automation QA Course Projects
 ## Overview
-This repository contains artifacts from my coursework in the CS XXX course, specifically focusing on software testing, automation, and quality assurance. The submitted files are from Project One and Project Two and showcase my ability to create and execute unit tests, analyze software testing approaches, and apply appropriate testing strategies based on requirements. These artifacts are an essential part of my portfolio, which I will continue to build throughout the computer science program.
+This repository contains artifacts from my coursework in the CS 320 Software test, Automation QA Course, specifically focusing on software testing, automation, and quality assurance. The submitted files are from Project One and Project Two and showcase my ability to create and execute unit tests, analyze software testing approaches, and apply appropriate testing strategies based on requirements. These artifacts are an essential part of my portfolio, which I will continue to build throughout the computer science program.
 
 ## Project Artifacts
 ### Project One
